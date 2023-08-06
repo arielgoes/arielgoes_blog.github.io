@@ -1,2 +1,2 @@
 # arielgoesdecastro.com
-Personal Blog
+[Personal Blog](https://arielgoesdecastro.netlify.app)
